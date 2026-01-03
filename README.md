@@ -21,7 +21,7 @@ Each story is preserved immutably on IPFS, with control remaining with the commu
   <img width="200" height="250" alt="Screenshot 2026-01-02 at 18 12 05" src="https://github.com/user-attachments/assets/6e0d9c0d-39e0-4385-ba32-45ba2ba523bd" />
 </div>
 
-Published in *The Language of Creative AI* (Springer, 2025). Code pending ICSR 2026 publication.
+Published in **[The Language of Creative AI](https://link.springer.com/book/9783032155009)** (Springer, 2025)
 
 ---
 
