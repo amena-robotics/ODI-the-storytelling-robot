@@ -1,4 +1,4 @@
-# ODI: Storytelling robot for cultural preservation 
+# ODI: storytelling robot for cultural preservation 
 
 Decentralised data governance + adaptive AI for indigenous language preservation.
 
