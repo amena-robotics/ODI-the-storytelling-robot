@@ -71,6 +71,7 @@ A detailed electrical schematic for the current proof-of-concept ODI detailing t
 ## Modular design 
 
 ODI’s sustainable design is a core part of the project. It aims to reduce environmental impact and acts as a philosophy that aligns with the goal of preserving cultural heritage and traditional storytelling mediums. ODI’s chassis is designed for longevity and easy maintenance with the interior holding standard, off-the-shelf components. These design choices ensure that ODI can serve as a long-term vessel for cultural preservation.
+
 <img width="762" height="524" alt="Screenshot 2026-01-02 at 18 09 19" src="https://github.com/user-attachments/assets/37d10c59-63a1-40f8-ac16-037cc5a26933" />
 
 ---
